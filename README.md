@@ -36,7 +36,7 @@ Therefore, here are some proposals suggested for improvement of CFPB and financi
    - Proper educations are needed for the consumers to know exactly how deposits and withdrawals work to avoid misunderstandings, and to also investigate fraud checks that could happened.
    - Improve securities on credit account information and educate consumers how to securely manage their credit accounts.
 
-**IMPORTANT NOTE REGARDING COMPLAINT DATA**
+## IMPORTANT NOTE REGARDING COMPLAINT DATA
 The complete .csv data has the size of 1.8GB with 2.4 million of rows, which are way too big to be saved inside GitHub repository. Data is available publically in both the [CFPB official website](https://www.consumerfinance.gov/data-research/consumer-complaints/#download-the-data) and [Google Public Dataset](https://console.cloud.google.com/marketplace/product/cfpb/complaint-database). The data is open and can be redistributed appropriately and legally according to the Google Terms of Service. The data contains complaints from 01 July 2018 to 30 June 2023, and contains the following 18 columns:
  1.   Date received
  2.   Product
