@@ -35,3 +35,24 @@ Therefore, here are some proposals suggested for improvement of CFPB and financi
 - Banking products improvements:
    - Proper educations are needed for the consumers to know exactly how deposits and withdrawals work to avoid misunderstandings, and to also investigate fraud checks that could happened.
    - Improve securities on credit account information and educate consumers how to securely manage their credit accounts.
+
+**IMPORTANT NOTE REGARDING COMPLAINT DATA**
+The complete .csv data has the size of 1.8GB with 2.4 million of rows, which are way too big to be saved inside GitHub repository. The data contains complaints from 01 July 2018 to 30 June 2023, and contains the following columns:
+ 0   Date received
+ 1   Product
+ 2   Sub-product
+ 3   Issue
+ 4   Sub-issue
+ 5   Consumer complaint narrative
+ 6   Company public response
+ 7   Company
+ 8   State
+ 9   ZIP code
+ 10  Tags
+ 11  Consumer consent provided?
+ 12  Submitted via
+ 13  Date sent to company
+ 14  Company response to consumer
+ 15  Timely response?
+ 16  Consumer disputed?
+ 17  Complaint ID
